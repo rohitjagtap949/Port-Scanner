@@ -4,12 +4,12 @@
 
 Clone the Repository:
 Bash
-git clone https://github.com/rohitjagtap949/port_scanner.git
+git clone https://github.com/rohitjagtap949/Port-Scanner
 
 Install Requirements:
-Bash
+
 pip install -r requirements.txt
 
 Run the Script:
-Bash
+
 python port_scanner.py <target_ip>
